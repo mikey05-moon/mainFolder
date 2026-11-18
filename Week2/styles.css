@@ -27,6 +27,14 @@ header {
   padding: 16px 24px;
 }
 
+.logo {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #ddd;
+}
+
 main {
   max-width: 720px;
   margin: 24px auto;
